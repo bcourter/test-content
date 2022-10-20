@@ -1,0 +1,27 @@
+#
+# Material file
+# Created by SpaceClaim
+#
+
+newmtl c_0
+Kd 0.6117647 0.6352941 0.6117647
+Ks 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+illum 2
+Ns 40
+
+newmtl t_0
+Kd 1 1 1
+Ks 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+illum 2
+Ns 40
+map_Kd 
+
+newmtl t_1
+Kd 0.3019608 0.3019608 0.3019608
+Ks 0.8 0.8 0.8
+Ka 0.2 0.2 0.2
+illum 2
+Ns 40
+map_Kd fine_grain_wood.jpg
